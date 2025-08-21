@@ -6,7 +6,7 @@
 
 📍 **Bihar, India**  
 📧 [suryasubharyan@gmail.com](mailto:suryasubharyan@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) • [GitHub](https://github.com/suryasubharyan) • [LeetCode](https://leetcode.com/your-leetcode)
+[LinkedIn](https://www.linkedin.com/in/shubham-thakur-6504b7229/) • [GitHub](https://github.com/suryasubharyan) • [LeetCode](https://leetcode.com/u/6207015637/)
 
 ---
 
